@@ -1,5 +1,7 @@
 // Mary Rose's JavaScript Homework
 
+//This is a comment made by Pier Bottero Web
+
 // 1. Write an if/else statement
 var APPLE_QUANTITY = 5;
 
